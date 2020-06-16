@@ -388,12 +388,12 @@
         },
         "name" : {
           "type" : "string",
-          "example" : "Adrian",
+          "example" : "John",
           "description" : "Users first name"
         },
         "last_name" : {
           "type" : "string",
-          "example" : "Minnock",
+          "example" : "Smith",
           "description" : "Users last name"
         }
       }
@@ -423,17 +423,17 @@
         },
         "name" : {
           "type" : "string",
-          "example" : "Adrian",
+          "example" : "John",
           "description" : "Users first name"
         },
         "last_name" : {
           "type" : "string",
-          "example" : "Minnock",
+          "example" : "Smith",
           "description" : "Users last name"
         },
         "email" : {
           "type" : "string",
-          "example" : "adrian.minnock@smartbear.com",
+          "example" : "John.Smith@example.com",
           "description" : "Users email"
         },
         "phone" : {
